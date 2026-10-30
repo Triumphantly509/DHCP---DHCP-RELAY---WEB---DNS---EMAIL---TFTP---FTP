@@ -21,3 +21,9 @@
 <div>
   <img width="768" height="636" alt="image" src="https://github.com/user-attachments/assets/88e5b501-5424-4c6c-9ff1-c88d4cfb9a26" />
 </div>
+
+## Remote DHCP Configuration with DNS and Web Server via IP Helper
+
+<div>
+  <img width="1132" height="572" alt="image" src="https://github.com/user-attachments/assets/8e90f785-a54f-4605-a32d-f0d7a531372b" />
+</div>
